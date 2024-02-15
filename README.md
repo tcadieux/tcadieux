@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tcadieux
-- 🌱 I’m currently enrolled in the Tufts Post-Bacc Certificate in Computer Science program with intents to continue towards a MSCS
+- ~~I’m currently enrolled in the Tufts Post-Bacc Certificate in Computer Science program with intents to continue towards a MSCS~~ Life gets in the way
 
 
 <!---
