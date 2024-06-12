@@ -1,5 +1,5 @@
 👋 Hi, I’m @tcadieux
-I'm taking computer science classes at a local community college: Red Rocks Community College:
+I'm taking computer science classes at Red Rocks Community College
 
 | Course | Status | Semester |
 | -------- | ------- | ------- |    
