@@ -1,5 +1,7 @@
 👋 Hi, I’m @tcadieux
-I'm taking computer science classes at Red Rocks Community College
+
+By day I make people click on things on the internet.
+By night I'm taking computer science classes at Red Rocks Community College
 
 | Course | Status | Semester |
 | -------- | ------- | ------- |    
