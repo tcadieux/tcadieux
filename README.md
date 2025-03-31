@@ -1,7 +1,8 @@
 👋 Hi, I’m @tcadieux
 
 By day I make people click on things on the internet.
-By night I'm taking computer science classes at Red Rocks Community College
+
+By night I'm taking computer science classes for personal development
 
 | Course | Status | Semester |
 | -------- | ------- | ------- |    
