@@ -11,7 +11,6 @@ CSC 1060: Computer Science 1 (C++) | **Complete**  | Summer, 2024
 CWB 1010: Intro to Web Authoring |  **Complete** | Summer, 2024
 CIS 2040: Database Design & DevelopmentL | **Complete** | Fall, 2024
 CIS 1061: Computer Science 2 (C++) | **Complete** | Fall, 2024
-
 CS50p: Introduction to Programming with Python | **Complete** | Fall, 2024
 
 
