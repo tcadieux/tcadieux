@@ -2,7 +2,6 @@
 
 I make people click on things on the internet. 
 
-I've started taking computer science classes for personal development
 
 | Course | Status | Semester |
 | -------- | ------- | ------- |    
