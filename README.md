@@ -1,4 +1,4 @@
-👋 Hi, I’m @tcadieux
+👋 Hi, I’m Ted
 
 I make people click on things on the internet. 
 
