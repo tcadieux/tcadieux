@@ -6,6 +6,7 @@ Currently enrolled in the Colorado School of Mines Masters of Computer Science p
 
 
 **Colorado School of Mines:**
+  - [DSCI570: Machine Learning](https://github.com/tcadieux/DSCI-570-Machine-Learning)
 
   - [DSCI503: Advanced Data Science](https://github.com/tcadieux/DSCI-503---Advanced-Data-Science)
 
